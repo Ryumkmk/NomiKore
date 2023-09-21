@@ -123,6 +123,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< Updated upstream:NomiKore/Assets/Scenes/SampleScene.unity
 --- !u!1 &165112274
 GameObject:
   m_ObjectHideFlags: 0
@@ -207,6 +208,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> Stashed changes:NomiKore/Assets/Scenes/OssanScene.unity
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -393,6 +396,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1688978557}
   - component: {fileID: 1688978556}
+  - component: {fileID: 1688978558}
   m_Layer: 0
   m_Name: "\u304A\u3063\u3055\u3093\u306E\u6BDB\u30BB\u30FC\u30D5\u30C7\u30B6\u30A4\u30F3"
   m_TagString: Untagged
@@ -461,18 +465,19 @@ Transform:
   m_GameObject: {fileID: 1688978555}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.0218, y: -0.8409, z: 0}
-  m_LocalScale: {x: 0.37117815, y: 0.34723327, z: 1}
+  m_LocalPosition: {x: -0, y: -2.15, z: 0}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1719284921
-GameObject:
+--- !u!114 &1688978558
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:NomiKore/Assets/Scenes/SampleScene.unity
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1719284923}
@@ -635,13 +640,27 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+  m_GameObject: {fileID: 1688978555}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e178f0c0d2055e42a815411a6d84f61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  trueHair: {fileID: 6065598072720574658, guid: d6a38788490635e4b9077fba11b45d46, type: 3}
+  fakeHair: {fileID: 5988812073175967735, guid: e780a92a30a42d14f972e28d12f22fbf, type: 3}
+>>>>>>> Stashed changes:NomiKore/Assets/Scenes/OssanScene.unity
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 519420032}
   - {fileID: 1688978557}
+<<<<<<< Updated upstream:NomiKore/Assets/Scenes/SampleScene.unity
   - {fileID: 2074015598}
   - {fileID: 1719284923}
   - {fileID: 165112276}
   - {fileID: 1469650532}
+=======
+  - {fileID: 732211710}
+>>>>>>> Stashed changes:NomiKore/Assets/Scenes/OssanScene.unity
