@@ -12,9 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Home.unity
     guid: 31d8e2f914b504e93904a6a8f0a1b217
   - enabled: 1
-    path: Assets/Scenes/OsanGameScene.unity
+    path: Assets/Scenes/Ossan/OsanGameScene.unity
     guid: caeb36c2e03c11b4da082c67d743044d
   - enabled: 1
-    path: Assets/Scenes/OsanGameOver.unity
+    path: Assets/Scenes/Ossan/OsanGameOver.unity
     guid: 0b4dcbe8e11fbac4caaae4a7f1482886
   m_configObjects: {}
